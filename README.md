@@ -48,24 +48,24 @@ BankerBot enhances customer satisfaction by providing instant responses, reducin
 **Say hello to the Serverless Real-Time Chat App—your futuristic, cloud-powered chat system that runs right in your Windows Command Prompt (CMD) 💻! Built with the power of AWS API Gateway 🌐, AWS Lambda ⚡, and AWS CloudFormation 📜, this app makes chatting faster, smarter, and serverless! 🚀💫**
 
 **💥 Key Features:
-💨 Serverless Architecture:** No servers, no hassle! This app runs entirely on AWS, powered by AWS API Gateway 🌍 and AWS Lambda ⚡. A fully automated system that scales on demand—just chat and go! 📡✨
+💨 a. Serverless Architecture:** No servers, no hassle! This app runs entirely on AWS, powered by AWS API Gateway 🌍 and AWS Lambda ⚡. A fully automated system that scales on demand—just chat and go! 📡✨
 
-**⏱️ Real-Time Messaging:** Type a message, hit Enter, and BAM—instant response! Thanks to AWS Lambda ⚡, the chat happens in real-time, so you can chat smoothly with no delays. 💬🚀**
+**⏱️b. Real-Time Messaging:** Type a message, hit Enter, and BAM—instant response! Thanks to AWS Lambda ⚡, the chat happens in real-time, so you can chat smoothly with no delays. 💬🚀**
 
-**👾 Windows CMD Integration:** Retro meets tech! The entire chat experience runs from Windows Command Prompt—just type in your messages like a pro. It’s like chatting with the future from your old-school terminal. 💾🖥️**
+**👾c. Windows CMD Integration:** Retro meets tech! The entire chat experience runs from Windows Command Prompt—just type in your messages like a pro. It’s like chatting with the future from your old-school terminal. 💾🖥️**
 
-**🛠️ Automated Deployment:** With AWS CloudFormation 📜, the app is deployed automatically, meaning you won’t have to lift a finger. Just deploy, and you're ready to chat! ⚙️🔧**
+**🛠️d. Automated Deployment:** With AWS CloudFormation 📜, the app is deployed automatically, meaning you won’t have to lift a finger. Just deploy, and you're ready to chat! ⚙️🔧**
 
 
 **⚙️ How It Works:**
 
-**🌐 AWS API Gateway:** This serves as the front door to the app! It routes your chat requests to the right place and makes everything smooth like butter. 🧈🔄
+**🌐a. AWS API Gateway:** This serves as the front door to the app! It routes your chat requests to the right place and makes everything smooth like butter. 🧈🔄
 
-**⚡ AWS Lambda:** The secret sauce behind this app! It handles the magic of real-time messaging, processes your messages, and sends them instantly to your screen. Fast, efficient, serverless! 🧑‍💻💨
+**⚡b. AWS Lambda:** The secret sauce behind this app! It handles the magic of real-time messaging, processes your messages, and sends them instantly to your screen. Fast, efficient, serverless! 🧑‍💻💨
 
-**📜 AWS CloudFormation:** This nifty tool sets up the entire infrastructure for you—automatically! Just click deploy, and all the AWS resources are ready to power your chat app. 🏗️🚀
+**📜c. AWS CloudFormation:** This nifty tool sets up the entire infrastructure for you—automatically! Just click deploy, and all the AWS resources are ready to power your chat app. 🏗️🚀
 
-**🔧 Node.js:** Installed to manage all the dependencies and backend logic on Windows, making everything work together seamlessly! It’s your app's engine room, running behind the scenes. 🛠️💻
+**🔧d. Node.js:** Installed to manage all the dependencies and backend logic on Windows, making everything work together seamlessly! It’s your app's engine room, running behind the scenes. 🛠️💻
 
 
 **🌟 Technologies Used:**
@@ -91,16 +91,16 @@ Embrace the future of cloud-powered communication with a retro twist. Say goodby
 
 Step into the world of innovation and creativity with my dazzling AWS-powered projects! Built using **AWS PartyRock** 🎉⚡, these four sensational projects harness the power of serverless event-driven services to generate unique, immersive experiences. Get ready to be amazed! 💥
 
-### 1. **SublimePixel 🎬🌟**  
+### a. **SublimePixel 🎬🌟**  
 Imagine a world where **Hollywood**, **Bollywood**, and **political figures** come to life in breathtaking images! With a touch of **futuristic**, **vintage**, and **artistic flair**, **SublimePixel** transforms ordinary images into jaw-dropping visuals. From glamorous movie stars to powerful leaders, every image is a masterpiece. 🎨✨
 
-### 2. **ESPN 2.0 ⚽🏏**  
+### b. **ESPN 2.0 ⚽🏏**  
 Welcome to the **ultimate sports experience**! **ESPN 2.0** brings you **live football** ⚽ and **cricket** 🏏 scores in real-time. Simply enter the name of your favorite team, and watch as PartyRock dynamically fetches match stats, scores, and updates—keeping you at the edge of the action. It’s fast, it’s sleek, and it’s powered by PartyRock! 📊⚡
 
-### 3. **GourmetGlobe 🍣🌎**  
+### c. **GourmetGlobe 🍣🌎**  
 Embark on a **culinary journey** across the globe! **GourmetGlobe** brings you **mouthwatering recipes** from the finest cuisines—**Mexican**, **Italian**, **Chinese**, **Indian**, and beyond. PartyRock stirs up a dynamic recipe experience, delivering vibrant and delicious dishes right to your kitchen. 🍝🌶️ It’s your passport to a world of flavors! 🌍🍽️
 
-### 4. **Jukebox 🎶🎤**  
+### d. **Jukebox 🎶🎤**  
 Ready to vibe? **Jukebox** brings your favorite **music artists** to life with dazzling visuals. 🎧✨ This project generates not only stunning images of artists but also creates **close-up album covers** that capture the essence of their music. Powered by PartyRock, Jukebox is your backstage pass to the ultimate music experience! 🎵💥
 
 ### What Powers These Glamorous Projects?  
